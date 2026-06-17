@@ -35,24 +35,6 @@
       "status": "OK",
       "planta": "Costela de Adão",
       "dono": "Wellerson"
-    },
-    {
-      "nome": "Sensor de Temperatura",
-      "tipo": "Temperatura",
-      "valor": "10",
-      "status": "Alerta",
-      "planta": "Samambaia",
-      "dono": "José",
-      "id": "IRCnjXFTqt4"
-    },
-    {
-      "nome": "Sensor de Luz",
-      "tipo": "Luz",
-      "valor": "10 lux",
-      "status": "Alerta",
-      "planta": "Cacto",
-      "dono": "Macedo",
-      "id": "ubuIu3SYA3A"
     }
   ]
 }
