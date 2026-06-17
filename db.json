@@ -1,36 +1,40 @@
 {
   "sensores": [
     {
-      "id": 1,
+      "id": "1",
       "nome": "Umidade do Solo",
       "tipo": "Umidade",
       "valor": "78%",
       "status": "OK",
-      "planta": "Samambaia"
+      "planta": "Samambaia",
+      "dono": "Ana Luiza"
     },
     {
-      "id": 2,
+      "id": "2",
       "nome": "Temperatura Ambiente",
       "tipo": "Temperatura",
       "valor": "23°C",
       "status": "OK",
-      "planta": "Orquídea"
+      "planta": "Orquídea",
+      "dono": "Kauan"
     },
     {
-      "id": 3,
+      "id": "3",
       "nome": "Luminosidade",
       "tipo": "Luz",
       "valor": "1200 lux",
       "status": "Alerta",
-      "planta": "Cacto"
+      "planta": "Cacto",
+      "dono": "Gleyce"
     },
     {
-      "id": 4,
+      "id": "4",
       "nome": "Umidade do Ar",
       "tipo": "Umidade",
       "valor": "55%",
       "status": "OK",
-      "planta": "Costela de Adão"
+      "planta": "Costela de Adão",
+      "dono": "Wellerson"
     }
   ]
 }
